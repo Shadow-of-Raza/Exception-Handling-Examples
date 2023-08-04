@@ -1,0 +1,12 @@
+We use SDLC technology to implement the project.
+In frontend we use HTML, CSS, JavaScript, etc. 
+Firstly mw prepare the documentation of our project. 
+And then we implement step by step. Firstly we design 
+layout by using Photoshop and then we create a .html file 
+for each and every page. In the backend part we use the Java 
+programming language to implement the logic and provide 
+functionality. We create Databases by using MySQL. 
+After that we provide internal connectivity by using 
+Advance Java J2EE. In J2EE we use SERVLET to provide 
+connectivity in the Frontend and Backend. And We use 
+JDBC steps to provide connectivity to Database.
